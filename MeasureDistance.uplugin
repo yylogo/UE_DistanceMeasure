@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MeasureDistance",
+	"Description": "MeasureDistance",
+	"Category": "Other",
+	"CreatedBy": "FullSea",
+	"CreatedByURL": "https://space.bilibili.com/18768729",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MeasureDistance",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
