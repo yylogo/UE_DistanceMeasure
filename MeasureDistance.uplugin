@@ -14,6 +14,9 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
+	"EngineVersion": "5.4",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/25762daa-afb8-4270-a1f2-6f1374cfd36a",
+	"DenyListPlatforms": [],
 	"Modules": [
 		{
 			"Name": "MeasureDistance",
