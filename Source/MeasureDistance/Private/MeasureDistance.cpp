@@ -94,7 +94,7 @@ void FMeasureDistanceModule::PluginButtonClicked()
 		{
 			continue;
 		}
-		DrawDebugLine(MeasureLine.StartActor->GetWorld(), StartLocation, EndLocation, FColor::Red, false, ShowTime, 0, 2.2f);
+		DrawDebugLine(MeasureLine.StartActor->GetWorld(), StartLocation, EndLocation, FColor::Red, false, ShowTime, 100, 2.2f);
 		FString DistanceText = FString::Printf(TEXT("%.1fcm"), (StartLocation - EndLocation).Size());
 		FVector MidLocation = (StartLocation + EndLocation) / 2;
 
