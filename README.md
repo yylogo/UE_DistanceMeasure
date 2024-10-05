@@ -9,6 +9,10 @@ Code Modules: 
 
 
 Number of Blueprints: 0
+
 Number of C++ Classes: 1
+
+
 Supported Development Platforms: Windows, Mac
+
 Documentation: [Documentation Link](https://docs.google.com/document/d/1Cq1bdufx1VEbctAS4ZePHj0vgUU3ZJpIFFVLmWkkjE4/edit?usp=sharing)
