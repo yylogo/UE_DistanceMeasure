@@ -2,9 +2,9 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "MeasureDistance",
-	"Description": "MeasureDistance",
-	"Category": "Other",
+	"FriendlyName": "Actors distance measurement tool",
+	"Description": "You can directly select several Actors in the editor, and then click the corresponding button of the tool to directly measure the distance. It is a useful tool for setting parameters.You can also pause the game running in PIE mode, select several Actors, and then click to view the distance.",
+	"Category": "Tools",
 	"CreatedBy": "FullSea",
 	"CreatedByURL": "https://space.bilibili.com/18768729",
 	"DocsURL": "",
@@ -16,13 +16,12 @@
 	"Installed": false,
 	"EngineVersion": "5.4",
 	"FabURL": "com.epicgames.launcher://ue/Fab/product/25762daa-afb8-4270-a1f2-6f1374cfd36a",
-	"AllowListPlatforms": ["Win64", "Mac"],
-	"PlatformAllowList": ["Win64", "Mac"],
 	"Modules": [
 		{
 			"Name": "MeasureDistance",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": []
 		}
 	]
 }
