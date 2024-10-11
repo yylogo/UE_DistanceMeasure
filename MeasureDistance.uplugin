@@ -21,7 +21,7 @@
 			"Name": "MeasureDistance",
 			"Type": "Editor",
 			"LoadingPhase": "Default",
-			"PlatformAllowList": []
+			"PlatformAllowList": ["Win64", "Linux", "Mac", "WinGDK"]
 		}
 	]
 }
