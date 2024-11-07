@@ -14,7 +14,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EngineVersion": "5.0",
+	"EngineVersion": "5.2",
 	"FabURL": "com.epicgames.launcher://ue/Fab/product/25762daa-afb8-4270-a1f2-6f1374cfd36a",
 	"Modules": [
 		{
